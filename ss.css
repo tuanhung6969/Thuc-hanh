@@ -1,0 +1,29 @@
+p{
+    color:pink;
+}
+
+
+
+.milky{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+
+}
+
+.music{
+    width: 700px;
+    height:400px;
+    border-radius: 12px;
+    justify-self: center;   
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-image: linear-gradient(#d0e960, #b468eb );
+}
+.play{
+    justify-self: center;
+}
+
+.music.thumb{
+    margin: 0 auto 25px
+}
+
